@@ -1,9 +1,9 @@
-# Service Desk
+# Service Desk: Full-Stack Ticketing App
 
-A ticketing app: users raise tickets, the support team assigns, replies and resolves them.
+A full-stack service desk app: users raise tickets, the support team assigns, replies to and resolves them. React and TypeScript on the front, Spring Boot and an embedded H2 database on the back.
 
+- `service-desk-frontend`: React and TypeScript web app
 - `service-desk-backend`: Spring Boot REST API with an embedded H2 database
-- `service-desk-frontend`: React and TypeScript front end
 
 ## Screenshots
 

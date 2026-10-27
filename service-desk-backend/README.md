@@ -4,7 +4,6 @@ A Spring Boot REST API for a service desk: people raise tickets, the support tea
 
 - Java 17, Spring Boot 3, Spring Data JPA, Bean Validation
 - Embedded in-memory H2 database, nothing to install (data resets when the backend restarts)
-- No Docker, no external services, no authentication
 
 The React front end for this API is in the `service-desk-frontend` folder.
 
